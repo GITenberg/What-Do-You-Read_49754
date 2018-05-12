@@ -1,10 +1,16 @@
 _repo: What-Do-You-Read_49754
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49754-h/images/cover.jpg
 creator:
   author:
     agent_name: Ellanby, Boyd
     gutenberg_agent_id: '35725'
     url: http://www.gutenberg.org/2009/agents/35725
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49754#What-Do-You-Read
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2015-08-21'
 gutenberg_type: Text
